@@ -1,0 +1,108 @@
+/* General */
+
+body {
+	background: url('../img/top_bg.jpg') repeat-x;
+	font: 12.5px Arial;
+}
+
+h1 {
+	text-transform: uppercase;
+	font-size: 2.5em;
+	font-weight: bold;
+}
+
+h2 {
+	text-transform: uppercase;
+	font-size: 1.8em;
+	font-weight: bold;
+}
+
+h3 {
+	text-transform: uppercase;
+	font-size: 1.6em;
+}
+
+h4 {
+	font-size: 1.4em;
+}
+
+h5 {
+	font-size: 1.2em;
+}
+
+.content {
+	margin: auto;
+	width: 1000px;
+}
+
+/* Content */
+
+.content-body {
+	padding: 0 30px;
+}
+
+.right-menu {
+	float: right;
+	width: 255px;
+}
+
+.container {
+	margin-right: 300px;
+}
+
+/* Container */
+
+.container a {
+	background: url('../img/green_dot.jpg') no-repeat left;
+	padding-left: 10px;
+	text-decoration: none;
+	color: #FA8D3E;
+}
+
+.container a:hover {
+	color: #A7A642;
+}
+
+.container p {
+	margin-bottom: 10px;
+	color: #5c6261;
+}
+
+.green-title {
+    color: #A7A642;
+    text-transform: uppercase;
+    margin: 10px 0;
+    font-weight: bold;
+}
+
+.sub-title {
+	margin: 30px 0;
+}
+
+.sub-head-title {
+    font-size: 0.7em;
+    color: #a4a4a4;
+}
+
+/* Option */
+.option {
+	margin: 30px 0;
+}
+
+.option-title {
+	color: #FA8D3E;
+	font-weight: bold;
+}
+
+.option-title a {
+	background: none;
+	padding-left: 0;
+}
+
+.option-image {
+	float: left;
+}
+
+.option-body {
+	margin-left: 105px;
+}

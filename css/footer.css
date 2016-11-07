@@ -1,0 +1,40 @@
+/* Footer */
+
+.footer {
+	background: url('../img/footer_bg.jpg') repeat-x;
+	height: 122px;
+	position: relative;
+}
+
+.footer-text-position {
+	margin-top: 52px;
+}
+
+.footer-copyright {
+	float: right;
+}
+
+.footer-menu {
+	float: left;
+}
+
+.footer-item {
+    display: inline-block;
+    text-align: center;
+    width: 85px;
+    border-right: 2px solid #FA8D3E;
+}
+
+.footer-item:last-child {
+	border-right: none;
+}
+
+.footer-item a {
+	font-weight: bold;
+	text-decoration: none;
+	color: #FA8D3E;
+}
+
+.footer-active a, .footer-item:hover a, .footer-item:active a {
+	color: #A7A642;
+}
