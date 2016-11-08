@@ -1,0 +1,18 @@
+.content {
+	margin: auto;
+	width: 1000px;
+}
+
+.base {
+	padding: 0 30px;
+	margin-top: 25px;
+}
+
+.col-main {
+    margin-right: 300px;
+}
+
+.col-menu {
+    float: right;
+    width: 255px;
+}
